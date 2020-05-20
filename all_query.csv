@@ -1,53 +1,113 @@
-Lund University,Lund,Sweden,Märta Stenevi,Lund,Sweden,,,,1666
-Stockholm University,Stockholm,Sweden,Magdalena Schröder,Stockholm,Sweden,,,,1878
-Linköping University,Linköping,Sweden,Magnus Sälgö,Helga Trefaldighet,Sweden,,,,1975
-Stockholm University,Stockholm,Sweden,Thomas Roth,Lunds Cathedral Assembly,Sweden,,,,1878
-Royal Institute of Technology,Stockholm,Sweden,Q56088224,Gothenburg,Sweden,,,,1827
-Stockholm University,Stockholm,Sweden,Roland Artle,Värmland,Sweden,,,,1878
-Uppsala University,Uppsala,Sweden,Johan Skytte,Storkyrkoförsamlingen,Sweden,,,,1477
-Umeå University,Umeå,Sweden,Sara Cerdas,Funchal,Portugal,,,,1965
-Stockholm University,Stockholm,Sweden,Silvia Viorica Constantinescu,Darabani,Romania,,,,1878
-Uppsala University,Uppsala,Sweden,Q66049797,Turku,Finland,,,,1477
-Royal Institute of Technology,Stockholm,Sweden,Kurt Wigartz,Mariestad,Sweden,,,,1827
-Royal Institute of Technology,Stockholm,Sweden,Q68823431,Sollentuna Municipality,Sweden,,,,1827
-Lund University,Lund,Sweden,Q62582367,Borås,Sweden,,,,1666
-Uppsala University,Uppsala,Sweden,Erik Frykman,Gothenburg,Sweden,,,,1477
-Chalmers University of Technology,Gothenburg,Sweden,Jesper Brodin,Gothenburg,Sweden,,,,1829
-Stockholm University,Stockholm,Sweden,John Christian Rydqvist,Storkyrkoförsamlingen,Sweden,,,,1878
-University of Gothenburg,Gothenburg,Sweden,Q59677199,Skurup,Sweden,,,,1954
-Royal Institute of Technology,Stockholm,Sweden,Gunnar Schoerner,Q10670076,Sweden,,,,1827
-University of Gothenburg,Gothenburg,Sweden,Maria Nilsson,Säffle parish,Sweden,,,,1954
-Stockholm University,Stockholm,Sweden,Martin Lorentzon,Åsenhöga,Sweden,,,,1878
-Stockholm University,Stockholm,Sweden,Arthur Lundblom,New York City,United States of America,,,,1878
-Stockholm University,Stockholm,Sweden,Anna Malmhake,Stockholm,Sweden,,,,1878
-Royal Institute of Technology,Stockholm,Sweden,Q59615105,Kalmar,Sweden,,,,1827
-University of Gothenburg,Gothenburg,Sweden,Hampus Hagman,Gothenburg,Sweden,,,,1954
-Royal Institute of Technology,Stockholm,Sweden,Martin Norsell,Q10688252,Sweden,,,,1827
-Uppsala University,Uppsala,Sweden,Q64785859,Norrköpings Hedvig Parish,Sweden,,,,1477
-Lund University,Lund,Sweden,Christian Fredrik Berling,Lund,Sweden,,,,1666
-Uppsala University,Uppsala,Sweden,Johan Hattne,Varberg,Sweden,,,,1477
-Uppsala University,Uppsala,Sweden,Romina Pourmokhtari,Hallonbergen,Sweden,,,,1477
-Luleå University of Technology,Porsön,Sweden,Grace Freedom Kwiyucwiny,Zombo District,Uganda,,,,1971
-Luleå University of Technology,Luleå,Sweden,Eva Karlsson,Finspång,Sweden,,,,1971
-University of Gothenburg,Gothenburg,Sweden,Ingemar Andersson,Gothenburg,Sweden,,,,1954
-Uppsala University,Uppsala,Sweden,Axel Munthe,Oskarshamn Parish,Sweden,,,,1477
-Uppsala University,Uppsala,Sweden,Karl Staaff,Klara Parish,Sweden,,,,1477
-Uppsala University,Uppsala,Sweden,Oscar von Sydow,Kalmar,Sweden,,,,1477
-Uppsala University,Uppsala,Sweden,Oscar I of Sweden,Paris,France,,,,1477
-Uppsala University,Uppsala,Sweden,Bror Uno Pehr Jacob Alexander Hummerhjelm,Åby församling,Sweden,,,,1477
-Linköping University,Linköping,Sweden,Lars Wanhammar,Vansbro,Sweden,,,,1975
-Lund University,Lund,Sweden,Joachim Morsing,Ystad,Sweden,,,,1666
-Uppsala University,Uppsala,Sweden,John Hanson,Stockholm,Sweden,,,,1477
-Royal Institute of Technology,Stockholm,Sweden,Anders Berglund,Q10718492,Sweden,,,,1827
-Uppsala University,Uppsala,Sweden,Magnus Napoleon Berlin,Härnösand,Sweden,,,,1477
-Uppsala University,Uppsala,Sweden,Q76404286,Kautokeino,Norway,,,,1477
-Chalmers University of Technology,Gothenburg,Sweden,Lasse Östman,Västerås,Sweden,,,,1829
-Stockholm University,Stockholm,Sweden,San'yūtei Jūbē,Uppsala,Sweden,,,,1878
-Uppsala University,Uppsala,Sweden,Q84499264,Umeå stadsförsamling,Sweden,,,,1477
-Uppsala University,Uppsala,Sweden,Q88387084,Uppsala,Sweden,,,,1477
-Royal Institute of Technology,Stockholm,Sweden,Q79314456,Johannebergs församling,Sweden,,,,1827
-Lund University,Lund,Sweden,Utoni Nujoma,Windhoek,Namibia,,,,1666
-Uppsala University,Uppsala,Sweden,Carl Johan Thyselius,Österhaninge,Sweden,,,,1477
-Royal Institute of Technology,Stockholm,Sweden,Johan von Utfall,Stockholm,Sweden,,,,1827
-Uppsala University,Uppsala,Sweden,Hjalmar Branting,Klara Parish,Sweden,,,,1477
-Stockholm University,Stockholm,Sweden,Ingmar Bergman,Uppsala,Sweden,,,,1878
+universityLabel,univlocationLabel,countryNameLabel,personLabel,pbornLabel,borncountryLabel,organizationLabel,orglocationLabel,orgcountryLabel,yearFounded
+Uppsala University,Uppsala,Sweden,Fredrik Ferdinand Carlson,Alsike parish,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Lund University,Lund,Sweden,Martin P. Nilsson,Q10680407,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Johnny Roosval,Kalmar domkyrkoförsamling,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Lennart Carleson,Stockholm,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Lund University,Lund,Sweden,Gottfrid Billing,Önnestad parish,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Carl Jonas Love Almqvist,Adolf Fredriks parish,Sweden,Nya Elementar,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Ingemar Hedenius,Stockholm,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Karolinska Institute,Stockholm,Sweden,Göran Liljestrand,Masthuggs församling,Sweden,Karolinska Institute,Solna Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Oskar Backlund,Länghem,Sweden,Pulkovo Observatory,Pulkovo Mountain,Russia,1477
+Uppsala University,Uppsala,Sweden,Lennart Carleson,Stockholm,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Carl August Hagberg,Lund,Sweden,Lund University,Lund Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Göran Liljestrand,Masthuggs församling,Sweden,Karolinska Institute,Solna Municipality,Sweden,1878
+Uppsala University,Uppsala,Sweden,Oskar Backlund,Länghem,Sweden,Pulkovo Observatory,Saint Petersburg,Russia,1477
+Lund University,Lund,Sweden,Johannes Rydberg,Halmstad,Sweden,Lund University,Lund Municipality,Sweden,1666
+Stockholm University,Stockholm,Sweden,Christer Fuglesang,Nacka,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1878
+Stockholm University,Stockholm,Sweden,Daniel Birnbaum,Stockholm,Sweden,Städelschule,Frankfurt am Main,Germany,1878
+Uppsala University,Uppsala,Sweden,Östen Undén,Karlstad,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Royal Institute of Technology,Stockholm,Sweden,Gunnar Asplund,Stockholm,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1827
+Lund University,Lund,Sweden,Östen Undén,Karlstad,Sweden,Uppsala University,Uppsala Municipality,Sweden,1666
+Karolinska Institute,Stockholm,Sweden,Rolf Maximilian Sievert,Stockholm,Sweden,Karolinska Institute,Solna Municipality,Sweden,1810
+Stockholm University,Stockholm,Sweden,Torsten Persson,Stockholm,Sweden,Stockholm University,Stockholm Municipality,Sweden,1878
+Stockholm University,Stockholm,Sweden,Sune Bergström,Kungsholms parish,Sweden,Lund University,Lund Municipality,Sweden,1878
+Karolinska Institute,Stockholm,Sweden,Ivar Wickman,Lunds Cathedral Assembly,Sweden,Karolinska Institute,Solna Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Johnny Roosval,Kalmar domkyrkoförsamling,Sweden,Nordic Museum,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Frans Michael Franzén,Oulu,Finland,Royal Academy of Turku,Turku,Finland,1477
+Lund University,Lund,Sweden,Lars Hörmander,Mjällby,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Håkan Lans,Enskede-Årsta-Vantör city district,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Erik Edlund,Edsbergs parish,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Gösta Mittag-Leffler,Klara Parish,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Royal Institute of Technology,Stockholm,Sweden,Christer Fuglesang,Nacka,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1827
+Uppsala University,Uppsala,Sweden,Sigfridus Aronus Forsius,Finland,Finland,Uppsala University,Uppsala Municipality,Sweden,1477
+Lund University,Lund,Sweden,Arvid Carlsson,Uppsala,Sweden,University of Gothenburg,Gothenburg Municipality,Sweden,1666
+Stockholm University,Stockholm,Sweden,Helge von Koch,Stockholm,Sweden,Stockholm University,Stockholm Municipality,Sweden,1878
+Lund University,Lund,Sweden,Bengt I. Samuelsson,Halmstad,Sweden,Karolinska Institute,Solna Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Bertil Lindblad,Örebro,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Royal Institute of Technology,Stockholm,Sweden,Rolf Maximilian Sievert,Stockholm,Sweden,Karolinska Institute,Solna Municipality,Sweden,1827
+Uppsala University,Uppsala,Sweden,Einar Billing,Lunds Cathedral Assembly,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Hugo Alfvén,Stockholm,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Lund University,Lund,Sweden,Örjan Wikander,Helsingborg,Sweden,Lund University,Lund Municipality,Sweden,1666
+Lund University,Lund,Sweden,Lars Hörmander,Mjällby,Sweden,Stockholm University,Stockholm Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Helge von Koch,Stockholm,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1477
+Lund University,Lund,Sweden,Frans Gustaf Emanuel Walberg,Lund,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Olaus Rudbeck,Q10718088,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Royal Institute of Technology,Stockholm,Sweden,Peter Celsing,Stockholm,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1827
+Lund University,Lund,Sweden,K. G. Hammar,Hässleholm,Sweden,Lund University,Lund Municipality,Sweden,1666
+Lund University,Lund,Sweden,Carl Adolph Agardh,Båstads parish,Sweden,Lund University,Lund Municipality,Sweden,1666
+Lund University,Lund,Sweden,Arvid Carlsson,Uppsala,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Karl Gustav Jöreskog,Åmål,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Per Enflo,Stockholm,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1878
+Uppsala University,Uppsala,Sweden,Östen Undén,Karlstad,Sweden,Lund University,Lund Municipality,Sweden,1477
+Lund University,Lund,Sweden,Östen Undén,Karlstad,Sweden,Lund University,Lund Municipality,Sweden,1666
+Lund University,Lund,Sweden,Torsten Hägerstrand,Alvesta Municipality,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Bertil Lindblad,Örebro,Sweden,Uppsala Astronomical Observatory,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Johan Gadolin,Turku,Finland,Royal Academy of Turku,Turku,Finland,1477
+Karolinska Institute,Stockholm,Sweden,Torsten Wiesel,Uppsala,Sweden,The Rockefeller University,Manhattan,United States of America,1810
+Uppsala University,Uppsala,Sweden,Carl August Hagberg,Lund,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Martin Vahl,Bergen,Norway,University of Copenhagen,Copenhagen Municipality,Denmark,1477
+Uppsala University,Uppsala,Sweden,Bárbara Dührkop Dührkop,Hanover,Germany,University of Erlangen-Nuremberg,Nuremberg,Germany,1477
+Uppsala University,Uppsala,Sweden,Bárbara Dührkop Dührkop,Hanover,Germany,University of Erlangen-Nuremberg,Erlangen,Germany,1477
+Karolinska Institute,Stockholm,Sweden,Bengt I. Samuelsson,Halmstad,Sweden,Karolinska Institute,Solna Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Per Olov Enquist,Hjoggböle,Sweden,"University of California, Los Angeles",Los Angeles,United States of America,1477
+Uppsala University,Uppsala,Sweden,Peter Englund,Boden,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Bengt I. Samuelsson,Halmstad,Sweden,Karolinska Institute,Solna Municipality,Sweden,1878
+Stockholm University,Stockholm,Sweden,Per Enflo,Stockholm,Sweden,Kent State University,Kent,United States of America,1878
+Uppsala University,Uppsala,Sweden,Lennart Carleson,Stockholm,Sweden,Massachusetts Institute of Technology,Cambridge,United States of America,1477
+Uppsala University,Uppsala,Sweden,Östen Bergstrand,Stockholm,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Oskar Backlund,Länghem,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Rolf Maximilian Sievert,Stockholm,Sweden,Karolinska Institute,Solna Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Helge von Koch,Stockholm,Sweden,Royal Institute of Technology,Stockholm Municipality,Sweden,1878
+Lund University,Lund,Sweden,Ivar Wickman,Lunds Cathedral Assembly,Sweden,Karolinska Institute,Solna Municipality,Sweden,1666
+Karolinska Institute,Stockholm,Sweden,Örjan Ouchterlony,Stockholm,Sweden,University of Gothenburg,Gothenburg Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Helge von Koch,Stockholm,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Adolf Törneros,Q10489097,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Sune Bergström,Kungsholms parish,Sweden,Karolinska Institute,Solna Municipality,Sweden,1878
+Uppsala University,Uppsala,Sweden,Magnus Huss,"Torps församling, Härnösand diocese",Sweden,Karolinska Institute,Solna Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Göran Wahlenberg,Q10549545,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Royal Institute of Technology,Stockholm,Sweden,Lars E. O. Svensson,Örnsköldsvik,Sweden,Stockholm University,Stockholm Municipality,Sweden,1827
+Uppsala University,Uppsala,Sweden,Hans Rosling,Uppsala,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Gustaf Retzius,Kungsholms parish,Sweden,Lund University,Lund Municipality,Sweden,1477
+Lund University,Lund,Sweden,Gustaf Retzius,Kungsholms parish,Sweden,Lund University,Lund Municipality,Sweden,1666
+Uppsala University,Uppsala,Sweden,Torsten Carleman,Visseltofta,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Johan Afzelius,Larv parish,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Rubén Berríos,Aibonito,United States of America,Stockholm University,Stockholm Municipality,Sweden,1878
+Uppsala University,Uppsala,Sweden,Helge Backlund,Tartu,Estonia,Uppsala University,Uppsala Municipality,Sweden,1477
+Lund University,Lund,Sweden,Anders Lindstedt,Sundborns,Sweden,Lund University,Lund Municipality,Sweden,1666
+Karolinska Institute,Stockholm,Sweden,Herman Bernhard Lundborg,Väse parish,Sweden,Uppsala University,Uppsala Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Helge Backlund,Tartu,Estonia,Åbo Akademi University,Vaasa,Finland,1477
+Uppsala University,Uppsala,Sweden,Oscar Levertin,Q10509671,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Elias Tillandz,Rogberga socken,Sweden,Royal Academy of Turku,Turku,Finland,1477
+Karolinska Institute,Stockholm,Sweden,Gustaf Retzius,Kungsholms parish,Sweden,Karolinska Institute,Solna Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Hans Rosling,Uppsala,Sweden,Karolinska Institute,Solna Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Wilhelm Agrell,Uppsala,Sweden,Lund University,Lund Municipality,Sweden,1878
+Uppsala University,Uppsala,Sweden,Lennart von Post,Q10718075,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Bert Bolin,Nyköping,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Per-Olov Löwdin,Uppsala,Sweden,University of Florida,Gainesville,United States of America,1477
+Karolinska Institute,Stockholm,Sweden,Sven Ivar Seldinger,Mora,Sweden,University of Gothenburg,Gothenburg Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Anders Dahl,Varnhem,Sweden,University of Helsinki,Helsinki,Finland,1477
+Uppsala University,Uppsala,Sweden,Gerard De Geer,Stockholm,Sweden,Stockholm University,Stockholm Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Aris Fioretos,Gothenburg,Sweden,Humboldt University of Berlin,Berlin,Germany,1878
+Uppsala University,Uppsala,Sweden,Birger Bohlin,Lidköping,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Olof Swartz,Q10602807,Sweden,Karolinska Institute,Solna Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Bengt Westerlund,Gävle,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Johannes Steuchius,Härnösands domkyrkoförsamling,Sweden,Lund University,Lund Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Carl Piper,Storkyrkoförsamlingen,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Karolinska Institute,Stockholm,Sweden,Gustaf Retzius,Kungsholms parish,Sweden,Lund University,Lund Municipality,Sweden,1810
+Uppsala University,Uppsala,Sweden,Johan Wilcke,Wismar,Germany,Stockholm University,Stockholm Municipality,Sweden,1477
+Uppsala University,Uppsala,Sweden,Karl Oskar Medin,Axberg parish,Sweden,Karolinska Institute,Solna Municipality,Sweden,1477
+Stockholm University,Stockholm,Sweden,Yvonne Hirdman,Stockholm,Sweden,University of Gothenburg,Gothenburg Municipality,Sweden,1878
+Uppsala University,Uppsala,Sweden,Torsten Carleman,Visseltofta,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
+Lund University,Lund,Sweden,Anders Wiman,Hammarlöv,Sweden,Uppsala University,Uppsala Municipality,Sweden,1666
+Stockholm University,Stockholm,Sweden,Aris Fioretos,Gothenburg,Sweden,Rutgers University,New Jersey,United States of America,1878
+Uppsala University,Uppsala,Sweden,Lars Stigzelius,Q10680065,Sweden,Uppsala University,Uppsala Municipality,Sweden,1477
